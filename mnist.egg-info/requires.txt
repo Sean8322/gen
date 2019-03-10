@@ -1,0 +1,8 @@
+requests==2.19.1
+keras
+tensorflow
+numpy
+google-cloud-runtimeconfig
+google-cloud-resource-manager
+google-api-core
+google-cloud-core

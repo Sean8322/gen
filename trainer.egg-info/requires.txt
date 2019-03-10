@@ -1,0 +1,5 @@
+tensorflow-gpu
+tqdm
+keras
+numpy
+h5py

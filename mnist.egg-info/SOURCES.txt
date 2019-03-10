@@ -1,0 +1,15 @@
+README.md
+setup.py
+mnist.egg-info/PKG-INFO
+mnist.egg-info/SOURCES.txt
+mnist.egg-info/dependency_links.txt
+mnist.egg-info/requires.txt
+mnist.egg-info/top_level.txt
+trainer/__init__.py
+trainer/model.py
+trainer/task.py
+trainer/utils.py
+trainer-bad/__init__.py
+trainer-bad/model.py
+trainer-bad/setup.py
+trainer-bad/trainer.py
