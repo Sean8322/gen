@@ -1,0 +1,13 @@
+trainingInput:
+  region: us-central1
+  scaleTier: CUSTOM
+  masterType: n1-highmem-96
+  masterConfig:
+    acceleratorConfig:
+      count: 4
+      type: NVIDIA_TESLA_P4
+  workerType: complex_model_l
+  parameterServerType: large_model
+  workerCount: 2
+  parameterServerCount: 1
+  pythonVersion: "3.5"
